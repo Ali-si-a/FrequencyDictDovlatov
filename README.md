@@ -1,1 +1,2 @@
-# FrequencyDictDovlatov
+# Частотный словарь С.Д. Довлатова
+Ознакомиться со словарем можно по ссылке https://disk.yandex.ru/d/3YoGvabV_ip0Nw
